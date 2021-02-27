@@ -1,0 +1,13 @@
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.exe
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.deps.json
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.runtimeconfig.json
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.runtimeconfig.dev.json
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.dll
+C:\Projects\Study2\TestApp\linear equation solution2\bin\Debug\netcoreapp3.1\linear equation solution.pdb
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.csprojAssemblyReference.cache
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.AssemblyInfoInputs.cache
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.AssemblyInfo.cs
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.csproj.CoreCompileInputs.cache
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.dll
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.pdb
+C:\Projects\Study2\TestApp\linear equation solution2\obj\Debug\netcoreapp3.1\linear equation solution.genruntimeconfig.cache
